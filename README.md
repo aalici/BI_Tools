@@ -1,2 +1,3 @@
 # BI_Tools
-General BI Tools varying from old world to most technological ones.
+https://www.holistics.io/blog/redash-limitations-and-top-alternatives/
+
